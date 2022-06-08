@@ -2,3 +2,110 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://whoa-mannpressurewashing.com/index</loc>
+        <lastmod>2022-06-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://whoa-mannpressurewashing.com/store</loc>
+        <lastmod>2022-06-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://whoa-mannpressurewashing.com/reviews</loc>
+        <lastmod>2022-06-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://whoa-mannpressurewashing.com/gallery-All</loc>
+        <lastmod>2022-06-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://whoa-mannpressurewashing.com/gallery-Pressure-Washing</loc>
+        <lastmod>2022-06-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://whoa-mannpressurewashing.com/gallery-Parking-Lot-Striping</loc>
+        <lastmod>2022-06-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://whoa-mannpressurewashing.com/gallery-Home-Softwash</loc>
+        <lastmod>2022-06-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://whoa-mannpressurewashing.com/service-Home-Softwash</loc>
+        <lastmod>2022-06-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://whoa-mannpressurewashing.com/service-Commercial-Pressure-Washing</loc>
+        <lastmod>2022-06-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://whoa-mannpressurewashing.com/service-Parking-Striping</loc>
+        <lastmod>2022-06-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://whoa-mannpressurewashing.com/service-Concrete-Cleaning</loc>
+        <lastmod>2022-06-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://whoa-mannpressurewashing.com/service-Deck-&-Patio-Cleaning</loc>
+        <lastmod>2022-06-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://whoa-mannpressurewashing.com/service-Roof-Cleaning</loc>
+        <lastmod>2022-06-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://whoa-mannpressurewashing.com/service-Window-Cleaning</loc>
+        <lastmod>2022-06-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://whoa-mannpressurewashing.com/service-Farm-Equipment-Cleaning</loc>
+        <lastmod>2022-06-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
