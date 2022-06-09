@@ -32,6 +32,13 @@
     </url>
 
     <url>
+        <loc>https://whoa-mannpressurewashing.com/gallery-Home-Softwash</loc>
+        <lastmod>2022-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
         <loc>https://whoa-mannpressurewashing.com/gallery-Pressure-Washing</loc>
         <lastmod>2022-06-09</lastmod>
         <changefreq>weekly</changefreq>
@@ -46,7 +53,7 @@
     </url>
 
     <url>
-        <loc>https://whoa-mannpressurewashing.com/gallery-Home-Softwash</loc>
+        <loc>https://whoa-mannpressurewashing.com/service-Commercial-Pressure-Washing</loc>
         <lastmod>2022-06-09</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -54,13 +61,6 @@
 
     <url>
         <loc>https://whoa-mannpressurewashing.com/service-Home-Softwash</loc>
-        <lastmod>2022-06-09</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <url>
-        <loc>https://whoa-mannpressurewashing.com/service-Commercial-Pressure-Washing</loc>
         <lastmod>2022-06-09</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
